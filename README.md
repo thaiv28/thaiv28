@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thai Villaluna</h1>
-<h3 align="center">A undergraduate student attending UC Santa Cruz, Computer Science B.S.</h3>
+<h3 align="center">A undergraduate student attending UC Santa Cruz</h3>
+<h4 align="center">Bachelor of Science in Computer Science, Minor in Statistics</h4>
 
 - 🔭 I’m currently working on [UCSC Graduation Planner](https://github.com/thaiv28/ucscplanner)
 
