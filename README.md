@@ -7,7 +7,7 @@ if UC Santa Cruz students meet graduation requirements.
 
 - 🌱 I’m currently interested in **Machine Learning**, specifically Reinforcement Learning and Fairness in ML.
 
-    Check out one of my recent projects: [SAM Classifier](https://github.com/thaiv28/sam_classifier). This is a ML model that classifies government contracts from SAM.gov based
+    Check out one of my recent projects: [SAMurai](https://github.com/thaiv28/SAMurai). This is a ML model that classifies government contracts from SAM.gov based
     on their suitability for a specific company. It uses a joint categorical and multinomial Naive Bayes classifier, implemented using Scikit-Learn.
     I use this in conjunction with [SAM API](https://github.com/thaiv28/sam_api) to automatically pull contracts using the API and run them through the model.
 
