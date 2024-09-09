@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [UCSC Graduation Planner](https://github.com/thaiv28/ucscplanner)
 
-- 🌱 I’m currently learning **Spring Boot, Data Structures and Algorithms**
+- 🌱 I’m currently interested in **Machine Learning**, specifically Reinforcement Learning and Fairness in ML.
 
 - 📫 How to reach me **thaivillaluna@gmail.com**
 
