@@ -2,9 +2,14 @@
 <h3 align="center">An undergraduate student attending UC Santa Cruz</h3>
 <h4 align="center">Bachelor of Science in Computer Science, Minor in Statistics</h4>
 
-- 🔭 I’m currently working on [UCSC Graduation Planner](https://github.com/thaiv28/ucscplanner)
+- 🔭 I’m currently working on [UCSC Graduation Planner](https://github.com/thaiv28/ucscplanner). I'm implementing a NLP model that will parse out course prerequisites to determine
+if UC Santa Cruz students meet graduation requirements.
 
 - 🌱 I’m currently interested in **Machine Learning**, specifically Reinforcement Learning and Fairness in ML.
+
+    Check out one of my recent projects: [SAM Classifier](https://github.com/thaiv28/sam_classifier). This is a ML model that classifies government contracts from SAM.gov based
+    on their suitability for a specific company. It uses a joint categorical and multinomial Naive Bayes classifier, implemented using Scikit-Learn.
+    I use this in conjunction with [SAM API](https://github.com/thaiv28/sam_api) to automatically pull contracts using the API and run them through the model.
 
 - 📫 How to reach me **thaivillaluna@gmail.com**
 
