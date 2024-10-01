@@ -2,8 +2,7 @@
 <h3 align="center">An undergraduate student attending UC Santa Cruz</h3>
 <h4 align="center">Bachelor of Science in Computer Science, Minor in Statistics</h4>
 
-- 🔭 I’m currently working on [UCSC Graduation Planner](https://github.com/thaiv28/ucscplanner). I'm implementing a NLP model that will parse out course prerequisites to determine
-if UC Santa Cruz students meet graduation requirements.
+- 🔭 I’m currently working on [Farsight](https://github.com/thaiv28/Farsight). I'm implementing a neural network that that can predict the amount of kills a player will obtain in a professional League of Legends match.
 
 - 🌱 I’m currently interested in **Machine Learning**, specifically Reinforcement Learning and Fairness in ML.
 
